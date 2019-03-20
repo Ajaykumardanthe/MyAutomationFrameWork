@@ -1,8 +1,0 @@
-2019-03-19 12:45:04,123 [main] java.io.FileNotFoundException: D:\Ajay\Ajay\SeleniumWorkspace\FrameWorkExerciseOne\Configuration.properties (The system cannot find the file specified)
-2019-03-19 12:45:04,254 [main] PageFactory class initiated
-2019-03-19 12:45:04,255 [main] firstname webelement found
-2019-03-19 12:45:04,870 [main] PageFactory class initiated
-2019-03-19 12:45:04,873 [main] firstname webelement found
-2019-03-19 12:45:04,873 [main] java.lang.NullPointerException
-2019-03-19 12:45:04,873 [main] Result updated
-2019-03-19 12:45:04,943 [main] java.lang.NullPointerException
